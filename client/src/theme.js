@@ -1,0 +1,10 @@
+export const THEME = {
+    MAIN_COLOR: '#25987B',
+    SECOND_COLOR: '#28A485',
+    BORDER_COLOR: '#31C8A2',
+    WIN_COLOR: '#2ECC71',
+    LOSE_COLOR: '#E74C3C',
+    DRAW_COLOR: '#F1C40F',
+    SHOP_TEXT: '#414141',
+    PURCHASED: 'rgba(0, 148, 111, 0.5)',
+};
